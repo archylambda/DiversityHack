@@ -1,2 +1,0 @@
-# DiversityHack
-dostavista alghorigthm
